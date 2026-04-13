@@ -12,5 +12,5 @@
 Проверка известного вредоносного файла (например, EICAR test file): \
 <img width="795" height="547" alt="image" src="https://github.com/user-attachments/assets/523d0056-625a-4438-9461-2dd9fba997d7" />\
 Проверка URL:\
-<img width="770" height="304" alt="image" src="https://github.com/user-attachments/assets/7e9660a5-46ca-4eaf-81f1-1b72c911a56a" />\
+<img width="824" height="467" alt="image" src="https://github.com/user-attachments/assets/6bad1c02-ec1b-40ab-9760-1e5b171361a9" />\
 Обработка ошибки при превышении лимита запросов: не получилось вызвать ошибку
