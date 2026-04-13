@@ -3,9 +3,10 @@
 # **Инструкция**
 1. Скопировать репозиторий
 2. Открыть папку с файлами в VSC
-3. Установить зависимость: `pip install requests python-dotenv`
+3. Установить зависимостм: `pip install requests python-dotenv`, `pip install pytest`
 4. Создать файл `.env` и добавить строчку `API_KEY = (ваш API-ключ)`
 5. запустить файл `main.py
+6. Чтобы запустить тесты использовать команду `pytest -v`
 # **Отчёт**
 Проверка чистого файла (результат: harmless): \
 <img width="779" height="209" alt="image" src="https://github.com/user-attachments/assets/b827fa70-8782-4f94-8088-438f8f7f7d6f" />\
