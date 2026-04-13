@@ -8,9 +8,9 @@
 5. запустить файл `main.py
 # **Отчёт**
 Проверка чистого файла (результат: harmless): \
-<img width="881" height="291" alt="Снимок экрана 2026-04-11 210812" src="https://github.com/user-attachments/assets/bdd9a3ce-0a04-440a-be64-7690f03b302b" />\
+<img width="779" height="209" alt="image" src="https://github.com/user-attachments/assets/b827fa70-8782-4f94-8088-438f8f7f7d6f" />\
 Проверка известного вредоносного файла (например, EICAR test file): \
-<img width="780" height="824" alt="Снимок экрана 2026-04-11 211052" src="https://github.com/user-attachments/assets/e9fd4063-d6a1-457a-a053-8fae5b735b70" />\
+<img width="795" height="547" alt="image" src="https://github.com/user-attachments/assets/523d0056-625a-4438-9461-2dd9fba997d7" />\
 Проверка URL:\
- <img width="745" height="289" alt="Снимок экрана 2026-04-11 211741" src="https://github.com/user-attachments/assets/a50d9615-7b0b-4527-8f5c-500ed748d0f7" />\
+<img width="770" height="304" alt="image" src="https://github.com/user-attachments/assets/7e9660a5-46ca-4eaf-81f1-1b72c911a56a" />\
 Обработка ошибки при превышении лимита запросов: не получилось вызвать ошибку
